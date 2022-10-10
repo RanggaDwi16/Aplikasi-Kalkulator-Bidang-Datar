@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kalkulator Bidang Datar</string>
+    <string name="kalkulator_bidang_datar">Kalkulator Bidang Datar</string>
+    <string name="persegi">Persegi</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="lingkaran">Lingkaran</string>
+    <string name="todo">TODO</string>
+    <string name="perhitungan_persegi">Perhitungan Persegi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil_hitung_persegi">Hasil Hitung Persegi</string>
+    <string name="input_sisi_persegi">Input Sisi Persegi</string>
+    <string name="perhitungan_lingkaran">Perhitungan Lingkaran</string>
+    <string name="input_jari_jari">Input Jari-Jari</string>
+    <string name="hasil_hitung_lingkaran">Hasil Hitung Lingkaran</string>
+    <string name="perhitungan_segitiga">Perhitungan Segitiga</string>
+    <string name="hasil_hitung_segitiga">Hasil Hitung Segitiga</string>
+    <string name="input_tinggi">Input Tinggi</string>
+    <string name="input_alas">Input Alas</string>
+</resources>
